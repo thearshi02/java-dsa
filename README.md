@@ -7,6 +7,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Greedy
@@ -21,4 +22,8 @@ learning the dsa in java
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
