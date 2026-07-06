@@ -6,6 +6,7 @@ learning the dsa in java
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -16,6 +17,7 @@ learning the dsa in java
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
@@ -32,4 +34,8 @@ learning the dsa in java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
