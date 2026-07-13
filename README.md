@@ -13,6 +13,7 @@ learning the dsa in java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -36,6 +37,7 @@ learning the dsa in java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
