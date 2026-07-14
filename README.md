@@ -45,4 +45,16 @@ learning the dsa in java
 | [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/thearshi02/java-dsa/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
