@@ -49,6 +49,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/thearshi02/java-dsa/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,8 @@ learning the dsa in java
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/thearshi02/java-dsa/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
