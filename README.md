@@ -50,6 +50,7 @@ learning the dsa in java
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/thearshi02/java-dsa/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/thearshi02/java-dsa/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
