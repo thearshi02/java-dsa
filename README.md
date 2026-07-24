@@ -11,6 +11,7 @@ learning the dsa in java
 | [0027-remove-element](https://github.com/thearshi02/java-dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thearshi02/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
@@ -46,6 +47,7 @@ learning the dsa in java
 | [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/thearshi02/java-dsa/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thearshi02/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
