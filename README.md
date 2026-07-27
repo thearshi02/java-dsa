@@ -11,6 +11,7 @@ learning the dsa in java
 | [0027-remove-element](https://github.com/thearshi02/java-dsa/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thearshi02/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,4 +72,12 @@ learning the dsa in java
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
