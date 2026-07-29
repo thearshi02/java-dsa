@@ -21,6 +21,7 @@ learning the dsa in java
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ learning the dsa in java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
