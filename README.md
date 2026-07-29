@@ -16,6 +16,7 @@ learning the dsa in java
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thearshi02/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -94,4 +97,8 @@ learning the dsa in java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thearshi02/java-dsa/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
