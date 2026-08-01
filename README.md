@@ -17,6 +17,7 @@ learning the dsa in java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thearshi02/java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
@@ -79,11 +80,13 @@ learning the dsa in java
 | ------- |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,12 @@ learning the dsa in java
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
