@@ -21,6 +21,7 @@ learning the dsa in java
 | [0334-increasing-triplet-subsequence](https://github.com/thearshi02/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -63,6 +64,7 @@ learning the dsa in java
 | [0009-palindrome-number](https://github.com/thearshi02/java-dsa/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/thearshi02/java-dsa/tree/master/0319-bulb-switcher) |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ learning the dsa in java
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thearshi02/java-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +115,16 @@ learning the dsa in java
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
