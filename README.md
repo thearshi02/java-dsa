@@ -68,6 +68,7 @@ learning the dsa in java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/thearshi02/java-dsa/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/thearshi02/java-dsa/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -88,6 +89,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thearshi02/java-dsa/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/thearshi02/java-dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
