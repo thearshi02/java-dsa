@@ -23,6 +23,7 @@ learning the dsa in java
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/thearshi02/java-dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -84,6 +85,7 @@ learning the dsa in java
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/thearshi02/java-dsa/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/thearshi02/java-dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thearshi02/java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
