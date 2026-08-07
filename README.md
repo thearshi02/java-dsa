@@ -22,6 +22,7 @@ learning the dsa in java
 | [0540-single-element-in-a-sorted-array](https://github.com/thearshi02/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thearshi02/java-dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/thearshi02/java-dsa/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/thearshi02/java-dsa/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/thearshi02/java-dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/thearshi02/java-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -115,6 +116,7 @@ learning the dsa in java
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/thearshi02/java-dsa/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
