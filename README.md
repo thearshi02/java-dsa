@@ -6,6 +6,7 @@ learning the dsa in java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thearshi02/java-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/thearshi02/java-dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/thearshi02/java-dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/thearshi02/java-dsa/tree/master/0027-remove-element) |
@@ -36,6 +37,7 @@ learning the dsa in java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thearshi02/java-dsa/tree/master/0001-two-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/thearshi02/java-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
